@@ -1,13 +1,13 @@
 ## 👋 Hi there, I'm Youssef Amr
 
-🎓 I recently completed:  
+🎓 I am recently completing:  
 - A **Front-End Development Diploma**, building advanced projects using **JavaScript**, **React**, and **Next.js**.  
-- A **Back-End Development Diploma**, working with **Node.js**, **FastAPI**, **C#**, and **.NET**.
+- A **Back-End Development Diploma**, working with **C#** and **.NET**.
 
-📘 My **Bachelor's project** was a medical AI system that:  
-- Predicts **Alzheimer’s Disease** using supervised machine learning algorithms  
-- Compares traditional vs. modern ML approaches  
-- Scored an **A+ (97%)** and is currently being published
+📘 My **Bachelor's project** involved:  
+- Comparing the performance between traditional and ensemble machine learning models  
+- Focusing on Alzheimer’s disease prediction as the application  
+- Scored an **A+ (97%)** and currently working on publishing the results
 
 💻 I’m a full-stack developer who solves problems and builds useful software with passion and hard work.
 
