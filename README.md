@@ -1,6 +1,7 @@
 ## 👋 Hi there, I'm Youssef Amr
 
 🎓 I am recently completing:  
+- My senior year in a 5-year **Bachelor’s degree in Computer Engineering at the German University in Cairo (GUC)**  
 - A **Front-End Development Diploma**, building advanced projects using **JavaScript**, **React**, and **Next.js**.  
 - A **Back-End Development Diploma**, working with **C#** and **.NET**.
 
