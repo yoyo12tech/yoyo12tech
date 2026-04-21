@@ -1,6 +1,6 @@
 # Youssef Amr
 
-**Software Engineer** — Computer Engineering @ German University in Cairo | Dubai, UAE
+**Software Engineer** — Dubai, UAE
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-amr-2b019b274)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yoyo12tech)
@@ -19,7 +19,7 @@ The work presents a structured ML pipeline for early detection, benchmarking cla
 
 ## Experience
 
-**Software Engineer Intern** — [![talabat](https://img.shields.io/badge/talabat-FF6D00?style=for-the-badge&logoColor=white)](https://www.talabat.com) `Jul – Sep 2025 · Dubai`
+**Software Engineer Intern** — [![talabat](https://img.shields.io/badge/talabat-FF6D00?style=flat-square&logoColor=white)](https://www.talabat.com) `Jul – Sep 2025 · Dubai`
 - Built LLM-powered review moderation features; reduced manual review effort significantly
 - Implemented automated vendor tier updates via event-driven microservices
 - Delivered production-ready services in **C#**, **Kafka**, and **Python**
