@@ -1,6 +1,6 @@
 # Youssef Amr
 
-Software Engineer** — Dubai, UAE
+Software Engineer— Dubai, UAE
 ---
 
 ## Publications
