@@ -1,7 +1,5 @@
-# Youssef Amr
-
-Software Engineer— Dubai, UAE
----
+### Youssef Amr
+Software Engineer · Dubai, UAE
 
 ## Publications
 My undergraduate research on Alzheimer’s disease prediction—comparing traditional machine learning models with ensemble approaches on the OASIS-2 dataset—has been published in Nature Scientific Reports.
